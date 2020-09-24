@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1088416246557",
+    "firebase_url": "https://smoothie-366c3.firebaseio.com",
+    "project_id": "smoothie-366c3",
+    "storage_bucket": "smoothie-366c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088416246557:android:0e93933b66084c5bdb0ff4",
+        "android_client_info": {
+          "package_name": "com.example.smoothie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1088416246557-3uvqri1001t3k3kvd9c0tftsct4gqgsu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.smoothie",
+            "certificate_hash": "032e058d20098687ca879de1454a537fe455619c"
+          }
+        },
+        {
+          "client_id": "1088416246557-ml0mtredrt5u3plaprc1sumdk0817kn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARj1BHHbv-yh0qpRB9mGSfgafJOLtwhRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1088416246557-ml0mtredrt5u3plaprc1sumdk0817kn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
